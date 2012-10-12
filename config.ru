@@ -7,10 +7,10 @@ blog = Shinmun::Blog.new(File.dirname(__FILE__))
 
 blog.config = {
   :language => 'en',
-  :title => "Blog Title",
-  :author => "The Author",
+  :title => "Isx Blog",
+  :author => "Isxida",
   :categories => ["Ruby", "Javascript"],
-  :description => "Blog description"
+  :description => "NAK NAK NAK NAK NAK NAK NAK"
 }
 
 run blog
